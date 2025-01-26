@@ -1,0 +1,105 @@
+﻿<Window x:Class="MDK_01_02_Лаба4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MDK_01_02_Лаба4"
+        mc:Ignorable="d"
+        Title="MainWindow"
+        Height="450"
+        Width="800">
+  <Grid>
+    <Grid.ColumnDefinitions>
+      <ColumnDefinition/>
+      <ColumnDefinition/>
+      <ColumnDefinition/>
+      <ColumnDefinition/>
+      <ColumnDefinition/>
+    </Grid.ColumnDefinitions>
+
+    <Grid.RowDefinitions>
+      <RowDefinition/>
+      <RowDefinition/>
+      <RowDefinition/>
+      <RowDefinition/>
+    </Grid.RowDefinitions>
+
+    <TextBlock Name="Text1"
+               Grid.Column="0"
+               Grid.Row="0"
+               HorizontalAlignment="Center"
+               VerticalAlignment="Center">Расскажите о городе в котором родились</TextBlock>
+
+    <TextBlock
+      Grid.Column="0"
+      Grid.Row="0"
+      HorizontalAlignment="Center"
+      VerticalAlignment="Center">Название</TextBlock>
+    <TextBox
+      Grid.Column="1"
+      Grid.Row="0"
+      x:Name="title"
+      Width="50"
+      Height="30"
+      HorizontalAlignment="Left"/>
+
+    <TextBlock
+      Grid.Column="0"
+      Grid.Row="2"
+      HorizontalAlignment="Center"
+      VerticalAlignment="Center">Численность населения</TextBlock>
+    <TextBox
+      Grid.Column="1"
+      Grid.Row="2"
+      x:Name="countOfPeople"
+      Width="50"
+      Height="30"
+      HorizontalAlignment="Left"/>
+
+    <TextBlock
+      Grid.Column="0"
+      Grid.Row="3"
+      HorizontalAlignment="Center"
+      VerticalAlignment="Center">Площадь</TextBlock>
+    <TextBox
+      Grid.Column="1"
+      Grid.Row="3"
+      x:Name="square"
+      Width="50"
+      Height="30"
+      HorizontalAlignment="Left"/>
+
+    <TextBlock
+      Grid.Column="3"
+      Grid.Row="0"
+      HorizontalAlignment="Center"
+      VerticalAlignment="Center">Сколько достопримечательностей</TextBlock>
+    <TextBox
+      Grid.Column="4"
+      Grid.Row="0"
+      x:Name="counOfSights"
+      Width="50"
+      Height="30"
+      HorizontalAlignment="Left"/>
+
+    <TextBlock
+      Grid.Column="3"
+      Grid.Row="1"
+      HorizontalAlignment="Center"
+      VerticalAlignment="Center">Цена за день проживания</TextBlock>
+    <TextBox
+      Grid.Column="4"
+      Grid.Row="1"
+      x:Name="priceOfDayLiving"
+      Width="50"
+      Height="30"
+      HorizontalAlignment="Left"/>
+
+    <Button Grid.Column="0"
+            Content="Сохранить"
+            FontSize="13"
+            Width="120"
+            Height="30"
+            />
+  </Grid>
+</Window>

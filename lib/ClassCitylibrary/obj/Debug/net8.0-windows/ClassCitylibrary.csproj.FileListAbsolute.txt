@@ -1,0 +1,11 @@
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\bin\Debug\net8.0-windows\ClassCitylibrary.deps.json
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\bin\Debug\net8.0-windows\ClassCitylibrary.dll
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\bin\Debug\net8.0-windows\ClassCitylibrary.pdb
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ClassCitylibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ClassCitylibrary.AssemblyInfoInputs.cache
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ClassCitylibrary.AssemblyInfo.cs
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ClassCitylibrary.csproj.CoreCompileInputs.cache
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ClassCitylibrary.dll
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\refint\ClassCitylibrary.dll
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ClassCitylibrary.pdb
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\ClassCitylibrary\obj\Debug\net8.0-windows\ref\ClassCitylibrary.dll

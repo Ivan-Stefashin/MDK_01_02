@@ -1,0 +1,4 @@
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\obj\Debug\net8.0-windows\MDK_01_02_Лаба4_MarkupCompile.cache
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\i.stefashin\Documents\VS Code\MDK_01_02_Лаба4 lib\obj\Debug\net8.0-windows\MDK_01_02_Лаба4_MarkupCompile.lref
